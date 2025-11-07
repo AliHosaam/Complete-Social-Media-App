@@ -178,4 +178,6 @@ Techs Used:
 
   * TypeScript type definitions for React, ensuring better type safety in React applications.
 
+Screenshots:
 
+   ![Image](https://github.com/user-attachments/assets/3c127dab-57cd-4b58-acd0-9a227ae21251)
